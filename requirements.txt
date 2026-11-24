@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+timm
+torch
+torchvision
+opencv-python-headless
+huggingface_hub
+pillow
+numpy
+imageio-ffmpeg
